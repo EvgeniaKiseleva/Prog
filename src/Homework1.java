@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // Вывести первые 20 чисел фиббоначи, не используя массив
 
-public class Homework_1 {
+public class Homework1 {
     public static void main(String[] args) {
         int number1 = 0;
         int number2 = 1;
